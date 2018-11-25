@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">User Registration Example</string>
+    <string name="back4app_server_url">http://ec2-18-219-221-127.us-east-2.compute.amazonaws.com/parse/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">0987acbe64936c6bd6147932f78756632bdfebaf</string>
+    <string name="back4app_client_key">713aef02c233ae23db0efb531dccc1d830876f8d</string>
+    <color name="Black">#000000</color>
+</resources>
